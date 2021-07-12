@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831273361555",
+    "project_id": "plasmavidind",
+    "storage_bucket": "plasmavidind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831273361555:android:c7ab3921b1a0b0d6ceed66",
+        "android_client_info": {
+          "package_name": "com.example.plasmavid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831273361555-t69v2j6gtjt0omqe9e81hhbte5ev19fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plasmavid",
+            "certificate_hash": "2911ab94c98e191a8f60b2d13b91131a1900fb4a"
+          }
+        },
+        {
+          "client_id": "831273361555-ku2hp3f8h7oo0a7lrt0jame8njmrcqn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZbhgQBkKQQdB_8v8ABZurjsl5J8nwMEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831273361555-ku2hp3f8h7oo0a7lrt0jame8njmrcqn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
